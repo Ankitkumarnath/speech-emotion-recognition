@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Data & audio
+*.wav
+*.mp3
+*.flac
+*.npy
+*.npz
+*.pkl
+*.h5
+*.pt
+*.pth
+*.ckpt
+dataset/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
